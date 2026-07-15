@@ -1,5 +1,7 @@
 # Facebook Invites Skill
 
+![Facebook Invites Skill social preview](assets/facebook-invites-social-preview.png)
+
 A Codex skill that works from an already-open Facebook reactions pop-up and invites every eligible reactor to like or follow a Page you manage.
 
 ## What it does
